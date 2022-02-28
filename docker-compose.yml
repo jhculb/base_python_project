@@ -1,0 +1,8 @@
+# Base docker file
+services:
+  jenkins:
+
+  nginx:
+
+  module_1:
+    # Copy env into the folder
